@@ -26,21 +26,17 @@ career-profile:
     title: About me
     summary: |
       Deborah Plana, BS, is an MD–PhD student in the Harvard‐MIT Health Sciences and Technology (HST) program. She is currently pursuing her PhD in the Harvard Systems Biology program, jointly supervised by Peter Sorger, PhD, from Harvard Medical School and Adam Palmer, PhD, from the UNC School of Medicine.
+      
       She previously earned her undergraduate degree in Biological Engineering at MIT with a minor in Statistics and Data Science, working in the lab of Douglas Lauffenburger. Her research interests include cancer systems biology and clinical trials in oncology.
 education:
-    - degree: MD-PhD
+    - degree: Medical Scientist Training Program, MD-PhD
       university: Harvard Medical School and MIT
       time: 2017 - current
-      details: |
-          - Medical Scientist Training Program grant recipient   
-          - F30 grant recipient  
+
     - degree: Bachelor of Science in Biological Engineering      
       university: Massachusetts Institute of Technology 
       time: 2013-2017
-      details: |
-          - GPA 4.9/5.0   
-          - Minor in Statistics and Data Science 
-
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
