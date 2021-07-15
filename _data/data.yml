@@ -1,0 +1,125 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Deborah Plana
+    tagline: MD-PhD Candidate at Harvard Medical School and MIT
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: debplana [at] gmail.com
+    linkedin: deborah-plana
+    github: debplana  
+    twitter: '@Plana-Deborah'
+    pdf: https://github.com/debplana/debplana.github.io/raw/main/Plana_CV_website.pdf
+    website: https://connects.catalyst.harvard.edu/Profiles/display/Person/159270
+    ORCID: https://orcid.org/0000-0002-4218-1693
+    Google Scholar: https://scholar.google.com/citations?user=8nEnF9YAAAAJ&hl=en
+
+
+career-profile:
+    title: About me
+    summary: |
+      Deborah Plana, BS, is an MD–PhD student in the Harvard‐MIT Health Sciences and Technology (HST) program. She is currently pursuing her PhD in the Harvard Systems Biology program, jointly supervised by Peter Sorger, PhD, from Harvard Medical School and Adam Palmer, PhD, from the UNC School of Medicine.
+      She previously earned her undergraduate degree in Biological Engineering at MIT with a minor in Statistics and Data Science, working in the lab of Douglas Lauffenburger. Her research interests include cancer systems biology and clinical trials in oncology.
+education:
+      - degree: MD-PhD
+      university: Harvard Medical School and MIT
+      time: 2017 - current
+          - Medical Scientist Training Program grant recipient   
+          - F30 grant recipient  
+    - degree: Bachelor of Science in Biological Engineering      
+      university: Massachusetts Institute of Technology 
+      time: 2013-2017
+      details: |
+          - GPA 4.9/5.0   
+          - Minor in Statistics and Data Science 
+
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
