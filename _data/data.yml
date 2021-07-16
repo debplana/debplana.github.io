@@ -28,6 +28,8 @@ career-profile:
       I am an MD–PhD student in the Harvard‐MIT Health Sciences and Technology (HST) program. I am currently pursuing my PhD in the Harvard Systems Biology program, jointly supervised by Peter Sorger, PhD, from Harvard Medical School and Adam Palmer, PhD, from the UNC School of Medicine.
       
       I previously earned my undergraduate degree in Biological Engineering at MIT with a minor in Statistics and Data Science, working in the lab of Douglas Lauffenburger. My research interests include cancer systems biology and clinical trials in oncology.
+
+      Selected media coverage on my work can be found in: [Harvard Crimson](https://www.thecrimson.com/article/2020/3/27/harvard-coronavirus-literacy-project/), [healthline](https://www.healthline.com/health-news/report-finds-kn95-masks-not-as-effective-as-n95-masks)
 education:
     - degree: Medical Scientist Training Program, MD-PhD
       university: Harvard Medical School and MIT
@@ -54,16 +56,6 @@ education:
          # - Bullet point
           #- Bullet point
           
-#projects:
-  #  title: Projects
-  #  intro: >
-   #   You can list your side projects or open source libraries in this
-    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-     # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    #assignments:
-     # - title: Velocity
-      #  link: "#hook"
-       # tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
     title: Publications and preprints
@@ -125,3 +117,14 @@ publications:
       - title: Synergistic Communication between CD4+ T Cells and Monocytes Impacts the Cytokine Environment. (<i>Scientific Reports</i>, 2016).
         link: https://doi.org/10.1038/srep34942
         authors: Schrier, S. B., Hill, A. S., <b>Plana, D.</b>, & Lauffenburger, D. A. 
+
+projects:
+    title: Selected Media Coverage
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
