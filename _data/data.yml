@@ -74,12 +74,10 @@ publications:
         link: https://doi.org/10.1101/2021.05.14.442837
         authors: <b>Plana, D.</b>, Fell, G., Alexander, B. M., Palmer, A. C. *, & Sorger, P. K. * 
 
-      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-       # link: "#"
-        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Analysis of SteraMist ionized hydrogen peroxide technology in the sterilization of N95 respirators and other PPE. (<i>Scientific Reports</i>, 2021).
+        link:  https://doi.org/10.1038/s41598-021-81365-7. 
+        authors: Cramer, A. K.*, <b>Plana, D.*</b>, Yang, H.*, Carmack, M. M., Tian, E., Sinha, M. S., Krikorian, D., Turner, D., Mo, J., Li, J., Gupta, R., Manning, H., Bourgeois, F. T., Yu, S. H., Sorger, P. K., & LeBoeuf, N. R.
 
-      #- title: A syntax directed compiler for Algol 60
-       # link: "#"
-        #authors: Edgar T. Irons
-        #conference: "Comm. ACM 4 (1961), 51–55"
+      - title: A Crisis-Responsive Framework for Medical Device Development Applied to the COVID-19 Pandemic. (<i>Frontiers in Digital Health</i>, 2021)
+        link: https://doi.org/10.3389/fdgth.2021.617106
+        authors: Antonini, M.-J.*, <b>Plana, D.*</b>, Srinivasan, S.*, Atta, L., Achanta, A., Yang, H., Cramer, A. K., Freake, J., Sinha, M. S., Yu, S. H., LeBoeuf, N. R., Linville-Engler, B., & Sorger, P. K. 
