@@ -69,12 +69,10 @@ publications:
     title: Publications and preprints. 
     intro: |
       *Denotes equal contributions
-
     papers:
-      - title: Cancer patient survival can be accurately parameterized, revealing time-dependent therapeutic effects and doubling the precision of small trials (bioRxiv, 2021).
+      - title: Cancer patient survival can be accurately parameterized, revealing time-dependent therapeutic effects and doubling the precision of small trials (<i>bioRxiv</i>, 2021).
         link: https://doi.org/10.1101/2021.05.14.442837
-        authors: Plana, D., Fell, G., Alexander, B. M., Palmer, A. C. *, & Sorger, P. K. * 
-        journal: bioRxiv
+        authors: <b>Plana, D.</b>, Fell, G., Alexander, B. M., Palmer, A. C. *, & Sorger, P. K. * 
 
       #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
        # link: "#"
