@@ -68,7 +68,7 @@ education:
 publications:
     title: Publications and preprints. 
     intro: |
-    * Denotes equal contributions. 
+      *Denotes equal contributions
 
     papers:
       - title: Cancer patient survival can be accurately parameterized, revealing time-dependent therapeutic effects and doubling the precision of small trials (bioRxiv, 2021).
