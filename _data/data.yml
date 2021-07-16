@@ -25,9 +25,9 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Deborah Plana, BS, is an MD–PhD student in the Harvard‐MIT Health Sciences and Technology (HST) program. She is currently pursuing her PhD in the Harvard Systems Biology program, jointly supervised by Peter Sorger, PhD, from Harvard Medical School and Adam Palmer, PhD, from the UNC School of Medicine.
+      I am an MD–PhD student in the Harvard‐MIT Health Sciences and Technology (HST) program. I am currently pursuing my PhD in the Harvard Systems Biology program, jointly supervised by Peter Sorger, PhD, from Harvard Medical School and Adam Palmer, PhD, from the UNC School of Medicine.
       
-      She previously earned her undergraduate degree in Biological Engineering at MIT with a minor in Statistics and Data Science, working in the lab of Douglas Lauffenburger. Her research interests include cancer systems biology and clinical trials in oncology.
+      I previously earned my undergraduate degree in Biological Engineering at MIT with a minor in Statistics and Data Science, working in the lab of Douglas Lauffenburger. My research interests include cancer systems biology and clinical trials in oncology.
 education:
     - degree: Medical Scientist Training Program, MD-PhD
       university: Harvard Medical School and MIT
@@ -66,7 +66,7 @@ education:
        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
-    title: Publications and preprints. 
+    title: Publications and preprints
     intro: |
       *Denotes equal contributions
     papers:
@@ -75,9 +75,17 @@ publications:
         authors: <b>Plana, D.</b>, Fell, G., Alexander, B. M., Palmer, A. C. *, & Sorger, P. K. * 
 
       - title: Analysis of SteraMist ionized hydrogen peroxide technology in the sterilization of N95 respirators and other PPE. (<i>Scientific Reports</i>, 2021).
-        link:  https://doi.org/10.1038/s41598-021-81365-7. 
+        link:  https://doi.org/10.1038/s41598-021-81365-7
         authors: Cramer, A. K.*, <b>Plana, D.*</b>, Yang, H.*, Carmack, M. M., Tian, E., Sinha, M. S., Krikorian, D., Turner, D., Mo, J., Li, J., Gupta, R., Manning, H., Bourgeois, F. T., Yu, S. H., Sorger, P. K., & LeBoeuf, N. R.
 
       - title: A Crisis-Responsive Framework for Medical Device Development Applied to the COVID-19 Pandemic. (<i>Frontiers in Digital Health</i>, 2021)
         link: https://doi.org/10.3389/fdgth.2021.617106
         authors: Antonini, M.-J.*, <b>Plana, D.*</b>, Srinivasan, S.*, Atta, L., Achanta, A., Yang, H., Cramer, A. K., Freake, J., Sinha, M. S., Yu, S. H., LeBoeuf, N. R., Linville-Engler, B., & Sorger, P. K. 
+
+      - title: De novo Powered Air-Purifying Respirator Design and Fabrication for Pandemic Response. (<i>medRxiv</i>, 2021)
+        link: https://doi.org/10.1101/2021.03.25.21252076
+        authors: Kothakonda, A.*, Atta, L.*, <b>Plana, D.*</b>, Ward, F.*, Davis, C., Cramer, A., Moran, R., Freake, J., Tian, E., Mazor, O., Gorelik, P., Van, C., Hansen, C., Yang, H., Sinha, M. S., Li, J., Yu, S. H., LeBoeuf, N. R., & Sorger, P. K. 
+
+      - title: 3D Printed frames to enable reuse and improve the fit of N95 and KN95 respirators. (<i>BMC Biomedical Engineering</i>, 2021)
+        link: https://doi.org/10.1186/s42490-021-00055-7 
+        authors: 5. McAvoy, M.*, Bui, A.-T. N.*, Hansen, C.*, Plana, D.*, Said, J. T., Yu, Z., Yang, H., Freake, J., Van, C., Krikorian, D., Cramer, A., Smith, L., Jiang, L., Lee, K. J., Li, S. J., Beller, B., Huggins, K., Short, M. P., Yu, S. H., Mostaghimi, A., Sorger, P. K., & LeBoeuf, N. R. 
