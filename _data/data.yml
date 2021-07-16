@@ -34,10 +34,10 @@ career-profile:
       You can learn more about my research through my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8nEnF9YAAAAJ&pagesize=80) and [ORCID](https://orcid.org/0000-0002-4218-1693) profiles. 
 
       Selected media coverage of my work includes articles in [Healthline Media](https://www.healthline.com/health-news/report-finds-kn95-masks-not-as-effective-as-n95-masks), 
-      [Yahoo Finance](https://finance.yahoo.com/news/major-scientific-report-cites-favorable-133000649.html), and
-      [Harvard Medicine News](https://hms.harvard.edu/news/fabricating-covid-19-solutions), and
+      [Yahoo Finance](https://finance.yahoo.com/news/major-scientific-report-cites-favorable-133000649.html), 
+      [Harvard Medicine News](https://hms.harvard.edu/news/fabricating-covid-19-solutions), 
       and [Harvard Crimson](https://www.thecrimson.com/article/2020/3/27/harvard-coronavirus-literacy-project/). 
-       
+
 education:
     - degree: Medical Scientist Training Program, MD-PhD
       university: Harvard Medical School and MIT
@@ -125,14 +125,3 @@ publications:
       - title: Synergistic Communication between CD4+ T Cells and Monocytes Impacts the Cytokine Environment. (<i>Scientific Reports</i>, 2016).
         link: https://doi.org/10.1038/srep34942
         authors: Schrier, S. B., Hill, A. S., <b>Plana, D.</b>, & Lauffenburger, D. A. 
-
-projects:
-    title: Selected Media Coverage
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
