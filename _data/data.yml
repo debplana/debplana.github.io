@@ -1,6 +1,33 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+<head>
+  <meta charset="UTF-8">
+  <meta name="keywords" content= "Deborah Plana />
+  <meta name="keywords" content= "Deb Plana" />
+  <meta name="keywords" content= "data science" />
+  <meta name="keywords" content= "systems biology" />
+  <meta name="keywords" content= "biotechnology" />
+  <meta name="keywords" content= "oncology" />    
+  <meta name="keywords" content= "cancer" />   
+  <meta name="keywords" content= "IPD" />  
+  <meta name="keywords" content= "individual participant data" /> 
+  <meta name="keywords" content= "Weibull" />     
+  <meta name="keywords" content= "personalized medicine" />     
+  <meta name="keywords" content= "precision medicine" />     
+  <meta name="keywords" content= "biotech" />
+  <meta name="keywords" content= "MIT" />
+  <meta name="keywords" content= "Harvard" />
+  <meta name="keywords" content= "Harvard Medical School" />
+  <meta name="keywords" content= "MD-PhD" />
+  <meta name="keywords" content= "computational biology" />
+  <meta name="keywords" content= "bioengineering" />
+  <meta name="keywords" content= "MSTP" />                                              
+  <meta name="keywords" content= "biological engineering" />                                             
+  <meta name="keywords" content= "COVID-19" />
+
+
+</head>
 
 sidebar:
     #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
