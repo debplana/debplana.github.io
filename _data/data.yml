@@ -1,10 +1,12 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+<!DOCTYPE html>
+<html>
 <head>
   <meta charset="UTF-8">
   <meta name="keywords" content= "Deborah Plana />
-    <meta name="keywords" content= "Deborah Plana Harvard />
+  <meta name="keywords" content= "Deborah Plana Harvard />
   <meta name="keywords" content= "Deb Plana" />
   <meta name="keywords" content= "data science" />
   <meta name="keywords" content= "systems biology" />
