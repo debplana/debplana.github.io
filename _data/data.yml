@@ -25,18 +25,18 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I am an MD–PhD student in the Harvard‐MIT Health Sciences and Technology (HST) program. I am currently pursuing my PhD in the Harvard Systems Biology program, jointly supervised by Peter Sorger, PhD, from Harvard Medical School and Adam Palmer, PhD, from the UNC School of Medicine.
-      
-      I previously earned my undergraduate degree in Biological Engineering at MIT with a minor in Statistics and Data Science, working in the lab of Douglas Lauffenburger. My research interests include cancer systems biology and clinical trials in oncology.
+      I am an [MD-PhD student](https://www.hms.harvard.edu/md_phd/) in the [Harvard‐MIT Health Sciences and Technology](https://hst.mit.edu/) program and the [Harvard Systems Biology](https://sysbio.med.harvard.edu/) program. I work with [Peter Sorger](https://ccsp.hms.harvard.edu/people/) from the [Laboratory of Systems Pharmacology at Harvard Medical School](https://hits.harvard.edu/the-program/laboratory-of-systems-pharmacology/about/) and [Adam Palmer from the UNC School of Medicine](https://www.med.unc.edu/pharm/directory/adam-palmer-phd/). I previously earned my undergraduate degree in [Biological Engineering at MIT](https://be.mit.edu/) with a minor in [Statistics and Data Science](https://idss.mit.edu/) and worked in the lab of [Douglas Lauffenburger](http://web.mit.edu/dallab/people/index.html).
 
-      I am grateful for generous support from the NIH Medical Scientist Training Program and the [NCI Ruth L. Kirschstein National Research Service F30 Award](https://reporter.nih.gov/search/cGYAb3Xfake87tsffnAx_g/project-details/10230716). 
-
-      You can learn more about my research through my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8nEnF9YAAAAJ&pagesize=80) and [ORCID](https://orcid.org/0000-0002-4218-1693) profiles. 
-
-      Selected media coverage of my work includes articles in [Healthline Media](https://www.healthline.com/health-news/report-finds-kn95-masks-not-as-effective-as-n95-masks), 
+      My goal is to improve survical outcomes for cancer patients. Towards this goal, I have developed tools for the analysis of drug efficacy data from clinical trials and preclinical experiments, and applied these methods to discover drug response biomarkers and help design new cancer combination therapies. 
+      You can learn more about my research through my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8nEnF9YAAAAJ&pagesize=80), [Harvard Catalyst](https://connects.catalyst.harvard.edu/Profiles/display/Person/159270), and [ORCID](https://orcid.org/0000-0002-4218-1693) profiles. 
+                  
+      Selected media coverage of my work in response to the COVID-19 pandemic includes articles in [Healthline Media](https://www.healthline.com/health-news/report-finds-kn95-masks-not-as-effective-as-n95-masks), 
       [Yahoo Finance](https://finance.yahoo.com/news/major-scientific-report-cites-favorable-133000649.html), 
       [Harvard Medicine News](https://hms.harvard.edu/news/fabricating-covid-19-solutions), 
       and [Harvard Crimson](https://www.thecrimson.com/article/2020/3/27/harvard-coronavirus-literacy-project/). 
+      
+      I am grateful for generous support from the NIH Medical Scientist Training Program and the [NCI Ruth L. Kirschstein National Research Service F30 Award](https://reporter.nih.gov/search/cGYAb3Xfake87tsffnAx_g/project-details/10230716). 
+
 
 education:
     - degree: Medical Scientist Training Program, MD-PhD
@@ -125,3 +125,4 @@ publications:
       - title: Synergistic Communication between CD4+ T Cells and Monocytes Impacts the Cytokine Environment. (<i>Scientific Reports</i>, 2016).
         link: https://doi.org/10.1038/srep34942
         authors: Schrier, S. B., Hill, A. S., <b>Plana, D.</b>, & Lauffenburger, D. A. 
+       
