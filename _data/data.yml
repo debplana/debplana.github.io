@@ -27,8 +27,8 @@ career-profile:
     summary: |
       I am an [MD-PhD student](https://www.hms.harvard.edu/md_phd/) in the [Harvard‐MIT Health Sciences and Technology](https://hst.mit.edu/) program and the [Harvard Systems Biology](https://sysbio.med.harvard.edu/) program. I work with [Peter Sorger](https://ccsp.hms.harvard.edu/people/) from the [Laboratory of Systems Pharmacology at Harvard Medical School](https://hits.harvard.edu/the-program/laboratory-of-systems-pharmacology/about/) and [Adam Palmer from the UNC School of Medicine](https://www.med.unc.edu/pharm/directory/adam-palmer-phd/). 
       
-      My work aims to help improve survival outcomes for cancer patients. Towards this goal, I have developed tools for the analysis of drug efficacy data from clinical trials and preclinical experiments, and applied these methods to discover drug response biomarkers and identify promising new cancer combination therapies. 
-      You can learn more about my research through my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8nEnF9YAAAAJ&pagesize=80), [Harvard Catalyst](https://connects.catalyst.harvard.edu/Profiles/display/Person/159270), and [ORCID](https://orcid.org/0000-0002-4218-1693) profiles. 
+      My work aims to improve survival outcomes for cancer patients. Towards this goal, I have helped develop tools for the analysis of drug efficacy data from clinical trials and preclinical experiments, and applied these methods to discover drug response biomarkers and identify promising new cancer combination therapies. 
+      You can learn more about this research through my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8nEnF9YAAAAJ&pagesize=80), [Harvard Catalyst](https://connects.catalyst.harvard.edu/Profiles/display/Person/159270), and [ORCID](https://orcid.org/0000-0002-4218-1693) profiles. 
                   
       Selected media coverage of my work in response to the COVID-19 pandemic includes articles in [Healthline Media](https://www.healthline.com/health-news/report-finds-kn95-masks-not-as-effective-as-n95-masks), 
       [Yahoo Finance](https://finance.yahoo.com/news/major-scientific-report-cites-favorable-133000649.html), 
@@ -76,6 +76,10 @@ publications:
         link: https://doi.org/10.1101/2021.05.14.442837
         authors: <b>Plana, D.</b>, Fell, G., Alexander, B. M., Palmer, A. C. *, & Sorger, P. K. * 
 
+      - title: Assessing the quality of nontraditional N95 filtering face-piece respirators available during the COVID-19 pandemic. (<i>BMC Infectious Diseases</i>, 2021).
+        link: https://doi.org/10.1186/s12879-021-06008-8
+        authors: <b>Plana, D.*</b>, Tian, E.*, Cramer, A. K.*, Yang, H.*, Carmack, M. M., Sinha, M. S., Bourgeois, F. T., Yu, S. H., Masse, P., Boyer, J., Kim, M., Mo, J., LeBoeuf, N. R., Li, J., & Sorger, P. K. 
+    
       - title: Analysis of SteraMist ionized hydrogen peroxide technology in the sterilization of N95 respirators and other PPE. (<i>Scientific Reports</i>, 2021).
         link:  https://doi.org/10.1038/s41598-021-81365-7
         authors: Cramer, A. K.*, <b>Plana, D.*</b>, Yang, H.*, Carmack, M. M., Tian, E., Sinha, M. S., Krikorian, D., Turner, D., Mo, J., Li, J., Gupta, R., Manning, H., Bourgeois, F. T., Yu, S. H., Sorger, P. K., & LeBoeuf, N. R.
@@ -95,10 +99,6 @@ publications:
       - title: Conversion of Existing UVB Phototherapy Units to UVC Germicidal Chambers for N95 Decontamination; Lessons Learned. (<i>Photobiomodulation, Photomedicine, and Laser Surgery</i>, 2021).
         link: https://doi.org/10.1089/photob.2020.4968
         authors: Kassamali, B., Yu, Z., Davis, C., Carmack, M., Bui, A.-T. N., Said, J. T., <b>Plana, D.</b>, Yang, H., Sorger, P., LeBoeuf, N. R., & LaChance, A. H. 
-
-      - title: Assessing the quality of nontraditional N95 filtering face-piece respirators available during the COVID-19 pandemic. (<i>medRxiv</i>, 2020).
-        link: https://doi.org/10.1101/2020.07.25.20161968
-        authors: <b>Plana, D.*</b>, Tian, E.*, Cramer, A. K.*, Yang, H.*, Carmack, M. M., Sinha, M. S., Bourgeois, F. T., Yu, S. H., Masse, P., Boyer, J., Kim, M., Mo, J., LeBoeuf, N. R., Li, J., & Sorger, P. K. 
 
       - title: A Proof of Concept for Biomarker-Guided Targeted Therapy against Ovarian Cancer Based on Patient-Derived Tumor Xenografts. (<i>Cancer Research</i>, 2020).
         link: https://doi.org/10.1158/0008-5472.CAN-19-3850
