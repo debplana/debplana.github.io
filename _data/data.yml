@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Deborah Plana, PhD
+    name: Deborah Plana
     tagline: MD-PhD Candidate at Harvard Medical School and MIT
     avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -27,7 +27,7 @@ career-profile:
     summary: |
       I am an [MD-PhD student](https://www.hms.harvard.edu/md_phd/) in the [Harvard‐MIT Health Sciences and Technology](https://hst.mit.edu/) program and the [Harvard Systems Biology](https://sysbio.med.harvard.edu/) program. I completed my PhD with [Peter Sorger](https://ccsp.hms.harvard.edu/people/) from the [Laboratory of Systems Pharmacology at Harvard Medical School](https://hits.harvard.edu/the-program/laboratory-of-systems-pharmacology/about/) and [Adam Palmer from the UNC School of Medicine](https://www.med.unc.edu/pharm/directory/adam-palmer-phd/). 
       
-      My work aims to improve survival outcomes for cancer patients. Towards this goal, I have developed tools for the [analysis of drug efficacy data from clinical trials](https://doi.org/10.1101/2021.05.14.442837) and preclinical experiments, and applied these methods to [find patient subgroups most responsive to cancer drugs](https://www.sciencedirect.com/science/article/pii/S2405471220303331?via%3Dihub), [discover drug-response biomarkers](https://cancerres.aacrjournals.org/content/80/19/4278), [help understand the mechanism of existing successful cancer combination therapies](https://doi-org.ezp-prod1.hul.harvard.edu/10.1158/2159-8290.CD-21-0212), and [identify new promising drug combinations](https://doi.org/10.1182/blood-2018-07-865527). 
+      My work aims to improve survival outcomes for cancer patients. Towards this goal, I have developed tools for the [analysis of drug efficacy data from clinical trials](https://doi.org/10.1038/s41467-022-28410-9) and preclinical experiments, and applied these methods to [find patient subgroups most responsive to cancer drugs](https://www.sciencedirect.com/science/article/pii/S2405471220303331?via%3Dihub), [discover drug-response biomarkers](https://cancerres.aacrjournals.org/content/80/19/4278), [help understand the mechanism of existing successful cancer combination therapies](https://doi-org.ezp-prod1.hul.harvard.edu/10.1158/2159-8290.CD-21-0212), and [identify new promising drug combinations](https://doi.org/10.1182/blood-2018-07-865527). 
       You can learn more about this research through my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8nEnF9YAAAAJ&pagesize=80) and [ORCID](https://orcid.org/0000-0002-4218-1693) profiles. 
                   
       Selected media coverage of my thesis work and of projects in response to the COVID-19 pandemic includes articles in [Healthline Media](https://www.healthline.com/health-news/report-finds-kn95-masks-not-as-effective-as-n95-masks), 
