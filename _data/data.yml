@@ -30,17 +30,16 @@ career-profile:
       and [Adam Palmer from the UNC School of Medicine](https://www.med.unc.edu/pharm/directory/adam-palmer-phd/). 
       My dissertation was titled [“Clinical Trial Data Science to Advance Precision Oncology”](https://www.proquest.com/openview/21ae5b704a53788316adc36be0679c61/1?pq-origsite=gscholar&cbl=18750&diss=y). 
       
-      My work enables enhanced analysis of clinical trial results, 
-      helping identify promising new treatments with [smaller sample sizes as compared to traditional approaches] (https://doi.org/10.1038/s41467-022-28410-9), 
-      advance new therapies to the clinic [that would otherwise be overlooked] (https://www.sciencedirect.com/science/article/pii/S2405471220303331?via%3Dihub), 
-      [discover drug-response biomarkers](https://cancerres.aacrjournals.org/content/80/19/4278), 
-      and [help understand the mechanism of existing successful cancer combination therapies](https://doi.org/10.1158/2159-8290.CD-21-0212). 
+      My research enables enhanced analysis of clinical trial results, 
+      helping identify promising new treatments with [smaller sample sizes as compared to traditional approaches](https://doi.org/10.1038/s41467-022-28410-9), 
+      advance new therapies to the clinic [that would otherwise be overlooked](https://www.sciencedirect.com/science/article/pii/S2405471220303331?via%3Dihub), 
+      and [discover drug-response biomarkers](https://cancerres.aacrjournals.org/content/80/19/4278). 
 
       Selected media coverage of my thesis work and of projects in response to the COVID-19 pandemic includes articles in 
       [Harvard GSAS](https://gsas.harvard.edu/news/stories/best-therapy-each-patient),
+      [Healthline Media](https://www.healthline.com/health-news/report-finds-kn95-masks-not-as-effective-as-n95-masks), 
       [Yahoo Finance](https://finance.yahoo.com/news/major-scientific-report-cites-favorable-133000649.html), 
       [HealthExec](https://healthexec.com/topics/artificial-intelligence/lack-clinical-trials-may-be-holding-back-ai-adoption-healthcare),
-      [Healthline Media](https://www.healthline.com/health-news/report-finds-kn95-masks-not-as-effective-as-n95-masks), 
       [Harvard Medicine News](https://hms.harvard.edu/news/fabricating-covid-19-solutions), 
       and [Harvard Crimson](https://www.thecrimson.com/article/2020/3/27/harvard-coronavirus-literacy-project/). 
       
@@ -80,7 +79,7 @@ education:
           #- Bullet point
           
 
-  publications:
+publications:
     title: Publications and preprints
     intro: |
       *Denotes equal contributions
@@ -91,8 +90,8 @@ education:
  
       - title: Independent Drug Action in Combination Therapy':' Implications for Precision Oncology
         (<i>Cancer Discovery</i>, 2022).
-        link:  https://doi.org/10.1158/2159-8290.CD-21-0212
-        authors: <b>Plana, D.*</b>, Palmer, A. C. *, & Sorger, P. K.  
+        link:  
+        authors: <b>Plana, D.</b>, Fell, G., Alexander, B. M., Palmer, A. C. *, & Sorger, P. K. * 
 
       - title: Assessing the quality of nontraditional N95 filtering face-piece respirators available during the COVID-19 pandemic. (<i>BMC Infectious Diseases</i>, 2021).
         link: https://doi.org/10.1186/s12879-021-06008-8
