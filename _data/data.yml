@@ -79,7 +79,7 @@ education:
           #- Bullet point
           
 
-publications:
+  publications:
     title: Publications and preprints
     intro: |
       *Denotes equal contributions
