@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Deborah Plana
-    tagline: MD-PhD Candidate at Harvard Medical School and MIT
+    name: Deborah Plana, PhD
+    tagline: MD Candidate at Harvard Medical School and MIT
     avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -41,7 +41,7 @@ career-profile:
       [Harvard Medicine News](https://hms.harvard.edu/news/fabricating-covid-19-solutions), [Harvard GSAS](https://gsas.harvard.edu/news/stories/best-therapy-each-patient),
       and [Harvard Crimson](https://www.thecrimson.com/article/2020/3/27/harvard-coronavirus-literacy-project/). 
       
-      I am grateful for generous support from the NIH Medical Scientist Training Program and the [NCI Ruth L. Kirschstein National Research Service F30 Award](https://reporter.nih.gov/search/cGYAb3Xfake87tsffnAx_g/project-details/10230716). 
+      I am grateful for generous support from the NIH Medical Scientist Training Program and the [NIH Ruth L. Kirschstein National Research Service F30 Award](https://reporter.nih.gov/search/cGYAb3Xfake87tsffnAx_g/project-details/10230716). 
       
       Previously, I earned my undergraduate degree in [Biological Engineering at MIT](https://be.mit.edu/) with a minor in [Statistics and Data Science](https://idss.mit.edu/) and worked in the lab of [Douglas Lauffenburger](http://web.mit.edu/dallab/people/index.html).
 
@@ -50,6 +50,10 @@ education:
     - degree: Medical Scientist Training Program, MD-PhD
       university: Harvard Medical School and MIT
       time: 2017 - current
+
+    - degree: Doctor of Philosophy in Systems, Synthetic, and Quantitative Biology     
+      university: Harvard University
+      time: 2019 - 2022
 
     - degree: Bachelor of Science in Biological Engineering      
       university: Massachusetts Institute of Technology 
