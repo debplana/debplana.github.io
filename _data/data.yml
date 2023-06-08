@@ -35,9 +35,12 @@ career-profile:
       advance new therapies to the clinic [that would otherwise be overlooked](https://www.sciencedirect.com/science/article/pii/S2405471220303331?via%3Dihub), 
       and [discover drug-response biomarkers](https://cancerres.aacrjournals.org/content/80/19/4278). 
 
-      Selected media coverage of my thesis work and of projects in response to the COVID-19 pandemic includes articles in [Healthline Media](https://www.healthline.com/health-news/report-finds-kn95-masks-not-as-effective-as-n95-masks), 
+      Selected media coverage of my thesis work and of projects in response to the COVID-19 pandemic includes articles in 
+      [Harvard GSAS](https://gsas.harvard.edu/news/stories/best-therapy-each-patient),
+      [Healthline Media](https://www.healthline.com/health-news/report-finds-kn95-masks-not-as-effective-as-n95-masks), 
       [Yahoo Finance](https://finance.yahoo.com/news/major-scientific-report-cites-favorable-133000649.html), 
-      [Harvard Medicine News](https://hms.harvard.edu/news/fabricating-covid-19-solutions), [Harvard GSAS](https://gsas.harvard.edu/news/stories/best-therapy-each-patient),
+      [HealthExec](https://healthexec.com/topics/artificial-intelligence/lack-clinical-trials-may-be-holding-back-ai-adoption-healthcare),
+      [Harvard Medicine News](https://hms.harvard.edu/news/fabricating-covid-19-solutions), 
       and [Harvard Crimson](https://www.thecrimson.com/article/2020/3/27/harvard-coronavirus-literacy-project/). 
       
       I am grateful for generous support from the NIH Medical Scientist Training Program and the [NIH Ruth L. Kirschstein National Research Service F30 Award](https://reporter.nih.gov/search/cGYAb3Xfake87tsffnAx_g/project-details/10230716). 
@@ -54,7 +57,7 @@ education:
       university: Harvard University
       time: 2019 - 2022
 
-    - degree: Bachelor of Science in Biological Engineering      
+    - degree: Bachelor of Science in Biological Engineering with a minor in Statistics and Data Science      
       university: Massachusetts Institute of Technology 
       time: 2013 - 2017
       
@@ -76,64 +79,69 @@ education:
           #- Bullet point
           
 
-publications:
-    title: Publications and preprints
-    intro: |
-      *Denotes equal contributions
-    papers:
-      - title: Cancer patient survival can be parametrized to improve trial precision and reveal time-dependent therapeutic effects. (<i>Nature Communications</i>, 2022).
-        link:  https://doi.org/10.1038/s41467-022-28410-9
-        authors: <b>Plana, D.</b>, Fell, G., Alexander, B. M., Palmer, A. C. *, & Sorger, P. K. * 
+#publications:
+ #   title: Publications and preprints
+  #  intro: |
+    #   *Denotes equal contributions
+    # papers:
+    #   - title: Cancer patient survival can be parametrized to improve trial precision and reveal time-dependent therapeutic effects. (<i>Nature Communications</i>, 2022).
+    #     link:  https://doi.org/10.1038/s41467-022-28410-9
+    #     authors: <b>Plana, D.</b>, Fell, G., Alexander, B. M., Palmer, A. C. *, & Sorger, P. K. * 
+ 
+    #   - title: Independent Drug Action in Combination Therapy':' Implications for Precision Oncology
+    #     (<i>Cancer Discovery</i>, 2022).
+    #     link:  
+    #     authors: <b>Plana, D.</b>, Fell, G., Alexander, B. M., Palmer, A. C. *, & Sorger, P. K. * 
 
-      - title: Assessing the quality of nontraditional N95 filtering face-piece respirators available during the COVID-19 pandemic. (<i>BMC Infectious Diseases</i>, 2021).
-        link: https://doi.org/10.1186/s12879-021-06008-8
-        authors: <b>Plana, D.*</b>, Tian, E.*, Cramer, A. K.*, Yang, H.*, Carmack, M. M., Sinha, M. S., Bourgeois, F. T., Yu, S. H., Masse, P., Boyer, J., Kim, M., Mo, J., LeBoeuf, N. R., Li, J., & Sorger, P. K. 
+    #   - title: Assessing the quality of nontraditional N95 filtering face-piece respirators available during the COVID-19 pandemic. (<i>BMC Infectious Diseases</i>, 2021).
+    #     link: https://doi.org/10.1186/s12879-021-06008-8
+    #     authors: <b>Plana, D.*</b>, Tian, E.*, Cramer, A. K.*, Yang, H.*, Carmack, M. M., Sinha, M. S., Bourgeois, F. T., Yu, S. H., Masse, P., Boyer, J., Kim, M., Mo, J., LeBoeuf, N. R., Li, J., & Sorger, P. K. 
     
-      - title: Analysis of SteraMist ionized hydrogen peroxide technology in the sterilization of N95 respirators and other PPE. (<i>Scientific Reports</i>, 2021).
-        link:  https://doi.org/10.1038/s41598-021-81365-7
-        authors: Cramer, A. K.*, <b>Plana, D.*</b>, Yang, H.*, Carmack, M. M., Tian, E., Sinha, M. S., Krikorian, D., Turner, D., Mo, J., Li, J., Gupta, R., Manning, H., Bourgeois, F. T., Yu, S. H., Sorger, P. K., & LeBoeuf, N. R.
+    #   - title: Analysis of SteraMist ionized hydrogen peroxide technology in the sterilization of N95 respirators and other PPE. (<i>Scientific Reports</i>, 2021).
+    #     link:  https://doi.org/10.1038/s41598-021-81365-7
+    #     authors: Cramer, A. K.*, <b>Plana, D.*</b>, Yang, H.*, Carmack, M. M., Tian, E., Sinha, M. S., Krikorian, D., Turner, D., Mo, J., Li, J., Gupta, R., Manning, H., Bourgeois, F. T., Yu, S. H., Sorger, P. K., & LeBoeuf, N. R.
 
-      - title: A Crisis-Responsive Framework for Medical Device Development Applied to the COVID-19 Pandemic. (<i>Frontiers in Digital Health</i>, 2021).
-        link: https://doi.org/10.3389/fdgth.2021.617106
-        authors: Antonini, M.-J.*, <b>Plana, D.*</b>, Srinivasan, S.*, Atta, L., Achanta, A., Yang, H., Cramer, A. K., Freake, J., Sinha, M. S., Yu, S. H., LeBoeuf, N. R., Linville-Engler, B., & Sorger, P. K. 
+    #   - title: A Crisis-Responsive Framework for Medical Device Development Applied to the COVID-19 Pandemic. (<i>Frontiers in Digital Health</i>, 2021).
+    #     link: https://doi.org/10.3389/fdgth.2021.617106
+    #     authors: Antonini, M.-J.*, <b>Plana, D.*</b>, Srinivasan, S.*, Atta, L., Achanta, A., Yang, H., Cramer, A. K., Freake, J., Sinha, M. S., Yu, S. H., LeBoeuf, N. R., Linville-Engler, B., & Sorger, P. K. 
 
-      - title: De novo Powered Air-Purifying Respirator Design and Fabrication for Pandemic Response. (<i>Frontiers in Bioengineering and Biotechnology</i>, 2021).
-        link: https://doi.org/10.3389/fbioe.2021.690905
-        authors: Kothakonda, A.*, Atta, L.*, <b>Plana, D.*</b>, Ward, F.*, Davis, C., Cramer, A., Moran, R., Freake, J., Tian, E., Mazor, O., Gorelik, P., Van, C., Hansen, C., Yang, H., Sinha, M. S., Li, J., Yu, S. H., LeBoeuf, N. R., & Sorger, P. K. 
+    #   - title: De novo Powered Air-Purifying Respirator Design and Fabrication for Pandemic Response. (<i>Frontiers in Bioengineering and Biotechnology</i>, 2021).
+    #     link: https://doi.org/10.3389/fbioe.2021.690905
+    #     authors: Kothakonda, A.*, Atta, L.*, <b>Plana, D.*</b>, Ward, F.*, Davis, C., Cramer, A., Moran, R., Freake, J., Tian, E., Mazor, O., Gorelik, P., Van, C., Hansen, C., Yang, H., Sinha, M. S., Li, J., Yu, S. H., LeBoeuf, N. R., & Sorger, P. K. 
 
-      - title: 3D Printed frames to enable reuse and improve the fit of N95 and KN95 respirators. (<i>BMC Biomedical Engineering</i>, 2021).
-        link: https://doi.org/10.1186/s42490-021-00055-7 
-        authors: McAvoy, M.*, Bui, A.-T. N.*, Hansen, C.*, <b>Plana, D.*</b>, Said, J. T., Yu, Z., Yang, H., Freake, J., Van, C., Krikorian, D., Cramer, A., Smith, L., Jiang, L., Lee, K. J., Li, S. J., Beller, B., Huggins, K., Short, M. P., Yu, S. H., Mostaghimi, A., Sorger, P. K., & LeBoeuf, N. R. 
+    #   - title: 3D Printed frames to enable reuse and improve the fit of N95 and KN95 respirators. (<i>BMC Biomedical Engineering</i>, 2021).
+    #     link: https://doi.org/10.1186/s42490-021-00055-7 
+    #     authors: McAvoy, M.*, Bui, A.-T. N.*, Hansen, C.*, <b>Plana, D.*</b>, Said, J. T., Yu, Z., Yang, H., Freake, J., Van, C., Krikorian, D., Cramer, A., Smith, L., Jiang, L., Lee, K. J., Li, S. J., Beller, B., Huggins, K., Short, M. P., Yu, S. H., Mostaghimi, A., Sorger, P. K., & LeBoeuf, N. R. 
 
-      - title: Conversion of Existing UVB Phototherapy Units to UVC Germicidal Chambers for N95 Decontamination; Lessons Learned. (<i>Photobiomodulation, Photomedicine, and Laser Surgery</i>, 2021).
-        link: https://doi.org/10.1089/photob.2020.4968
-        authors: Kassamali, B., Yu, Z., Davis, C., Carmack, M., Bui, A.-T. N., Said, J. T., <b>Plana, D.</b>, Yang, H., Sorger, P., LeBoeuf, N. R., & LaChance, A. H. 
+    #   - title: Conversion of Existing UVB Phototherapy Units to UVC Germicidal Chambers for N95 Decontamination; Lessons Learned. (<i>Photobiomodulation, Photomedicine, and Laser Surgery</i>, 2021).
+    #     link: https://doi.org/10.1089/photob.2020.4968
+    #     authors: Kassamali, B., Yu, Z., Davis, C., Carmack, M., Bui, A.-T. N., Said, J. T., <b>Plana, D.</b>, Yang, H., Sorger, P., LeBoeuf, N. R., & LaChance, A. H. 
 
-      - title: A Proof of Concept for Biomarker-Guided Targeted Therapy against Ovarian Cancer Based on Patient-Derived Tumor Xenografts. (<i>Cancer Research</i>, 2020).
-        link: https://doi.org/10.1158/0008-5472.CAN-19-3850
-        authors: Palmer, A. C.*, <b>Plana, D.*</b>, Gao, H.*, Korn, J. M., Yang, G., Green, J., Zhang, X., Velazquez, R., McLaughlin, M. E., Ruddy, D. A., Kowal, C., Muszynski, J., Bullock, C., Rivera, S., Rakiec, D. P., Elliott, G., Fordjour, P., Meyer, R., Loo, A., … Sorger, P. K.
+    #   - title: A Proof of Concept for Biomarker-Guided Targeted Therapy against Ovarian Cancer Based on Patient-Derived Tumor Xenografts. (<i>Cancer Research</i>, 2020).
+    #     link: https://doi.org/10.1158/0008-5472.CAN-19-3850
+    #     authors: Palmer, A. C.*, <b>Plana, D.*</b>, Gao, H.*, Korn, J. M., Yang, G., Green, J., Zhang, X., Velazquez, R., McLaughlin, M. E., Ruddy, D. A., Kowal, C., Muszynski, J., Bullock, C., Rivera, S., Rakiec, D. P., Elliott, G., Fordjour, P., Meyer, R., Loo, A., … Sorger, P. K.
 
-      - title: Comparing the Efficacy of Cancer Therapies between Subgroups in Basket Trials. (<i>Cell Systems</i>, 2020).
-        link: https://doi.org/10.1016/j.cels.2020.09.003
-        authors: Palmer, A. C.*, <b>Plana, D.*</b>, & Sorger, P. K. 
+    #   - title: Comparing the Efficacy of Cancer Therapies between Subgroups in Basket Trials. (<i>Cell Systems</i>, 2020).
+    #     link: https://doi.org/10.1016/j.cels.2020.09.003
+    #     authors: Palmer, A. C.*, <b>Plana, D.*</b>, & Sorger, P. K. 
 
-      - title: Regulatory and Safety Considerations in Deploying a Locally Fabricated, Reusable Face Shield in a Hospital Responding to the COVID-19 Pandemic. (<i>Med</i>, 2020).
-        link: https://doi.org/10.1016/j.medj.2020.06.003
-        authors: Mostaghimi, A.*, Antonini, M.-J.*, <b>Plana, D.*</b>, Anderson, P. D., Beller, B., Boyer, E. W., Fannin, A., Freake, J., Oakley, R., Sinha, M. S., Smith, L., Van, C., Yang, H., Sorger, P. K., LeBoeuf, N. R., & Yu, S. H.
+    #   - title: Regulatory and Safety Considerations in Deploying a Locally Fabricated, Reusable Face Shield in a Hospital Responding to the COVID-19 Pandemic. (<i>Med</i>, 2020).
+    #     link: https://doi.org/10.1016/j.medj.2020.06.003
+    #     authors: Mostaghimi, A.*, Antonini, M.-J.*, <b>Plana, D.*</b>, Anderson, P. D., Beller, B., Boyer, E. W., Fannin, A., Freake, J., Oakley, R., Sinha, M. S., Smith, L., Van, C., Yang, H., Sorger, P. K., LeBoeuf, N. R., & Yu, S. H.
 
-      - title: Considerations for the Selection and Use of Disinfectants Against SARS-CoV-2 in a Health Care Setting. (<i>Open Forum Infectious Diseases</i>, 2020).
-        link: https://doi.org/10.1093/ofid/ofaa396
-        authors: Tyan, K., Levin, A., Avalos-Pacheco, A., <b>Plana, D.</b>, Rand, E. A., Yang, H., Maliszewski, L. E., Chylek, L. A., Atta, L., Tye, M. A., Carmack, M. M., Oglesby, N. S., Burgin, S., Yu, S. H., LeBoeuf, N. R., & Kemp, J. M. 
+    #   - title: Considerations for the Selection and Use of Disinfectants Against SARS-CoV-2 in a Health Care Setting. (<i>Open Forum Infectious Diseases</i>, 2020).
+    #     link: https://doi.org/10.1093/ofid/ofaa396
+    #     authors: Tyan, K., Levin, A., Avalos-Pacheco, A., <b>Plana, D.</b>, Rand, E. A., Yang, H., Maliszewski, L. E., Chylek, L. A., Atta, L., Tye, M. A., Carmack, M. M., Oglesby, N. S., Burgin, S., Yu, S. H., LeBoeuf, N. R., & Kemp, J. M. 
 
-      - title: Plasma-derived extracellular vesicle analysis and deconvolution enable prediction and tracking of melanoma checkpoint blockade outcome. (<i>Science Advances</i>, 2020).
-        link: https://doi.org/10.1126/sciadv.abb3461
-        authors: Shi, A., Kasumova, G. G., Michaud, W. A., Cintolo-Gonzalez, J., Díaz-Martínez, M., Ohmura, J., Mehta, A., Chien, I., Frederick, D. T., Cohen, S., <b>Plana, D.</b>, Johnson, D., Flaherty, K. T., Sullivan, R. J., Kellis, M., & Boland, G. M. 
+    #   - title: Plasma-derived extracellular vesicle analysis and deconvolution enable prediction and tracking of melanoma checkpoint blockade outcome. (<i>Science Advances</i>, 2020).
+    #     link: https://doi.org/10.1126/sciadv.abb3461
+    #     authors: Shi, A., Kasumova, G. G., Michaud, W. A., Cintolo-Gonzalez, J., Díaz-Martínez, M., Ohmura, J., Mehta, A., Chien, I., Frederick, D. T., Cohen, S., <b>Plana, D.</b>, Johnson, D., Flaherty, K. T., Sullivan, R. J., Kellis, M., & Boland, G. M. 
 
-      - title: Biomarker-driven strategy for MCL1 inhibition in T-cell lymphomas. (<i>Blood</i>, 2019).
-        link: https://doi.org/10.1182/blood-2018-07-865527
-        authors: Koch, R., Christie, A. L., Crombie, J. L., Palmer, A. C., <b>Plana, D.</b>, Shigemori, K., Morrow, S. N., Van Scoyk, A., Wu, W., Brem, E. A., Secrist, J. P., Drew, L., Schuller, A. G., Cidado, J., Letai, A., & Weinstock, D. M. 
+    #   - title: Biomarker-driven strategy for MCL1 inhibition in T-cell lymphomas. (<i>Blood</i>, 2019).
+    #     link: https://doi.org/10.1182/blood-2018-07-865527
+    #     authors: Koch, R., Christie, A. L., Crombie, J. L., Palmer, A. C., <b>Plana, D.</b>, Shigemori, K., Morrow, S. N., Van Scoyk, A., Wu, W., Brem, E. A., Secrist, J. P., Drew, L., Schuller, A. G., Cidado, J., Letai, A., & Weinstock, D. M. 
 
-      - title: Synergistic Communication between CD4+ T Cells and Monocytes Impacts the Cytokine Environment. (<i>Scientific Reports</i>, 2016).
-        link: https://doi.org/10.1038/srep34942
-        authors: Schrier, S. B., Hill, A. S., <b>Plana, D.</b>, & Lauffenburger, D. A. 
+    #   - title: Synergistic Communication between CD4+ T Cells and Monocytes Impacts the Cytokine Environment. (<i>Scientific Reports</i>, 2016).
+    #     link: https://doi.org/10.1038/srep34942
+    #     authors: Schrier, S. B., Hill, A. S., <b>Plana, D.</b>, & Lauffenburger, D. A. 
        
