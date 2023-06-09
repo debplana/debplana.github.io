@@ -77,7 +77,17 @@ education:
         #architecto beatae vitae dicta sunt explicabo.
          # - Bullet point
           #- Bullet point
-          
+
+projects:
+    title: Open-source projects
+    intro: 
+    assignments:
+       - title: Greater Boston Pandemic Fabrication Team (PanFab), Co-Founder, Coordinator 
+         link: panfab.org
+         tagline: Coordinated team of ~100 scientists, clinicians, and engineers in responding to medical supply shortages during the COVID-19 pandemic, 
+         with resulting products used in Boston-area hospitals. Guided preparation and publication of multiple open-source research articles on the creation,
+         reuse, and clinical testing of personal protective equipment during a crisis, available at panfab.org.           
+
 
 publications:
     title: Publications 
@@ -155,16 +165,3 @@ publications:
       - title: Synergistic Communication between CD4+ T Cells and Monocytes Impacts the Cytokine Environment. (<i>Scientific Reports</i>, 2016).
         link: https://doi.org/10.1038/srep34942
         authors: Schrier, S. B., Hill, A. S., <b>Plana, D.</b>, & Lauffenburger, D. A. 
-       
- projects:
-    title: Open-source projects
-    intro: 
-    assignments:
-       - title: Greater Boston Pandemic Fabrication Team (PanFab), Co-Founder, Coordinator 
-         link: panfab.org
-         tagline: Coordinated team of ~100 scientists, clinicians, and engineers in responding to medical supply shortages during the COVID-19 pandemic, 
-         with resulting products used in Boston-area hospitals. Guided preparation and publication of multiple open-source research articles on the creation,
-         reuse, and clinical testing of personal protective equipment during a crisis, available at panfab.org. 
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
