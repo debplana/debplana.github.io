@@ -157,14 +157,14 @@ publications:
         authors: Schrier, S. B., Hill, A. S., <b>Plana, D.</b>, & Lauffenburger, D. A. 
        
  projects:
-    title: Projects
-    intro: >
-       You can list your side projects or open source libraries in this
+    title: Open-source projects
+    intro: 
     assignments:
-       - title: Velocity
-         link: "#hook"
-         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+       - title: Greater Boston Pandemic Fabrication Team (PanFab), Co-Founder, Coordinator 
+         link: panfab.org
+         tagline: Coordinated team of ~100 scientists, clinicians, and engineers in responding to medical supply shortages during the COVID-19 pandemic, 
+         with resulting products used in Boston-area hospitals. Guided preparation and publication of multiple open-source research articles on the creation,
+         reuse, and clinical testing of personal protective equipment during a crisis, available at panfab.org. 
 #       - title: DevStudio
 #         link: "#"
 #         tagline: "A responsive website template designed to help web developers/designers market their services."
