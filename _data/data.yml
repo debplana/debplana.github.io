@@ -72,7 +72,7 @@ education:
  #        with resulting products used in Boston-area hospitals. Guided preparation and publication of multiple open-source research articles on the creation,
  #        reuse, and clinical testing of personal protective equipment during a crisis, available at panfab.org.           
 projects:
-    title: Projects
+    title: Open-source projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
