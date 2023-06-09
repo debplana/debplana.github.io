@@ -100,7 +100,7 @@ publications:
         link:  https://doi.org/10.1002/cam4.5276
         authors: Peterson, J. S., <b>Plana, D.</b>, Bitterman, D. S., Johnson, S. B., Aerts, H. J. W. L., & Kann, B. H.
 
-      - title: Deep Learning–based Detection of Intravenous Contrast Enhancement on CT Scans. (<i>Radiology, Artificial Intelligence,</i>, 2022).
+      - title: Deep Learning–based Detection of Intravenous Contrast Enhancement on CT Scans. (<i>Radiology, Artificial Intelligence</i>, 2022).
         link:  https://doi.org/10.1148/ryai.210285
         authors: Ye, Z., Qian, J. M., Hosny, A., Zeleznik, R., <b>Plana, D.</b>,  Likitlersuang, J., Zhang, Z., Mak, R. H., Aerts, H. J. W. L., & Kann, B. H. 
 
@@ -156,16 +156,14 @@ publications:
         link: https://doi.org/10.1038/srep34942
         authors: Schrier, S. B., Hill, A. S., <b>Plana, D.</b>, & Lauffenburger, D. A. 
        
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+ projects:
+    title: Projects
+    intro: >
+       You can list your side projects or open source libraries in this
+    assignments:
+       - title: Velocity
+         link: "#hook"
+         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 #       - title: DevStudio
 #         link: "#"
