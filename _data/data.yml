@@ -74,12 +74,10 @@ education:
 projects:
     title: Open-source projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Greater Boston Pandemic Fabrication Team (PanFab)
+        link: panfab.org
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
