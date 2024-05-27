@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Deborah Plana, MD, PhD
+    name: Deborah Plana, MD PhD
     tagline: Anesthesia/Research Resident at MGH PRIME
     avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -25,7 +25,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I am an incoming Anesthesia/Research resident through the MGH Prime track interested in advancing precision anesthesia. I earned my [MD-PhD from HMS](https://www.hms.harvard.edu/md_phd/) through the [Harvard‐MIT Health Sciences and Technology](https://hst.mit.edu/) program
+      I am an incoming Anesthesia/Research resident through the [MGH Prime track](https://ether.mgh.harvard.edu/prime/) interested in advancing precision anesthesia. I earned my [MD-PhD from HMS](https://www.hms.harvard.edu/md_phd/) through the [Harvard‐MIT Health Sciences and Technology](https://hst.mit.edu/) program
       and the [Harvard Systems Biology](https://sysbio.med.harvard.edu/) program. During my PhD, I worked with [Peter Sorger](https://ccsp.hms.harvard.edu/people/) from the [Laboratory of Systems Pharmacology at Harvard Medical School](https://labsyspharm.org/) 
       and [Adam Palmer from the UNC School of Medicine](https://www.med.unc.edu/pharm/directory/adam-palmer-phd/). 
       My dissertation was titled [“Clinical Trial Data Science to Advance Precision Oncology”](https://www.proquest.com/openview/21ae5b704a53788316adc36be0679c61/1?pq-origsite=gscholar&cbl=18750&diss=y). 
