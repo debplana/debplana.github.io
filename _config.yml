@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Deborah Plana, PhD | MD Candidate at Harvard Medical School and MIT
-description: MD-PhD candidate at Harvard Medical School and MIT
+title: Deborah Plana, MD, PhD | MD Candidate at Harvard Medical School and MIT
+description: Anesthesia and Research Resident at MGH PRIME
 url: 'https://debplana.github.io/'
 baseurl:  #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
