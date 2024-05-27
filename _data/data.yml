@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Deborah Plana,      MD, PhD
+    name: Deborah Plana, MD-PhD
     tagline: Anesthesia/Research Resident at MGH PRIME
     avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -36,7 +36,7 @@ career-profile:
       and [discover drug-response biomarkers](https://cancerres.aacrjournals.org/content/80/19/4278). You can find out more about my research through my 
       [Google Scholar](https://scholar.google.com/citations?user=8nEnF9YAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-4218-1693) profiles. 
 
-      Selected media coverage of my thesis work and of projects in response to the COVID-19 pandemic includes articles in [HMS News](https://hms.harvard.edu/news/seeing-human-behind-data?utm_medium=social)
+      Selected media coverage of my thesis work and of projects in response to the COVID-19 pandemic includes articles in [HMS News](https://hms.harvard.edu/news/seeing-human-behind-data?utm_medium=social),
       [Harvard GSAS](https://gsas.harvard.edu/news/stories/best-therapy-each-patient),
       [Yahoo Finance](https://finance.yahoo.com/news/major-scientific-report-cites-favorable-133000649.html), 
       [HealthExec](https://healthexec.com/topics/artificial-intelligence/lack-clinical-trials-may-be-holding-back-ai-adoption-healthcare),
