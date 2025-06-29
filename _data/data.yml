@@ -83,6 +83,11 @@ projects:
         link:  https://www.cancertrials.io/
         tagline: "Imputed individual participant data (IPD) from >150 published oncology research clinical trials (RCTs). Data and analysis can be downloaded or viewed interactively."
 
+      - title: Emergent Properties Blog
+        link:  https://emergentpropertiesblog.com/
+        tagline: "Contributor to blog about the intersection of science and medicine."
+
+
 publications:
     title: Selected Publications 
     intro: |
