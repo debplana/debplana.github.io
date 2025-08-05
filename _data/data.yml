@@ -30,7 +30,7 @@ career-profile:
       and [Adam Palmer from the UNC School of Medicine](https://www.med.unc.edu/pharm/directory/adam-palmer-phd/). 
       My dissertation was titled [“Clinical Trial Data Science to Advance Precision Oncology.”](https://www.proquest.com/openview/21ae5b704a53788316adc36be0679c61/1?pq-origsite=gscholar&cbl=18750&diss=y) 
       
-      My research enables enhanced analysis of clinical trial results, 
+      My research enables enhanced analysis of preclinical and clinical trial results, 
       helping identify promising new treatments with [smaller sample sizes as compared to traditional approaches](https://doi.org/10.1038/s41467-022-28410-9), 
       advance therapies to the clinic [that would otherwise be overlooked](https://www.sciencedirect.com/science/article/pii/S2405471220303331?via%3Dihub), 
       and [discover drug-response biomarkers](https://cancerres.aacrjournals.org/content/80/19/4278). You can find out more about my research through my 
@@ -92,6 +92,14 @@ publications:
     intro: |
       *Denotes equal contributions
     papers:
+      - title:  Tumor-specific activity of precision medicines in the NCI-MATCH trial. (<i>Clinical Cancer Research</i>, 2024).
+        link:  https://doi.org/10.1158/1078-0432.CCR-23-0983
+        authors: Zhou, I. *, <b>Plana, D.*</b>, & Palmer, A. C
+
+      - title: Additivity predicts the efficacy of most approved combination therapies for advanced cancer. (<i>Nature Cancer</i>, 2023).
+        link:  https://doi.org/10.1038/s43018-023-00667-z
+        authors: Hwangbo, H., Patterson, S. C., Dai, A., <b>Plana, D.</b>, & Palmer, A. C. 
+
       - title: Cancer patient survival can be parametrized to improve trial precision and reveal time-dependent therapeutic effects. (<i>Nature Communications</i>, 2022).
         link:  https://doi.org/10.1038/s41467-022-28410-9
         authors: <b>Plana, D.</b>, Fell, G., Alexander, B. M., Palmer, A. C. *, & Sorger, P. K. * 
