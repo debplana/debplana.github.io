@@ -74,13 +74,13 @@ projects:
     intro: >
       
     assignments:
-      - title: Greater Boston Pandemic Fabrication Team (PanFab)
-        link: https://www.panfab.org/
-        tagline: "Founded and co-led ~100-person volunteer effort to respond to medical supply shortages during the COVID-19 pandemic. Resulting data, publications, and device designs are publicly available."
-
       - title: Cancertrials.io
         link:  https://www.cancertrials.io/
         tagline: "Imputed individual participant data (IPD) from >150 published oncology research clinical trials (RCTs). Data and analysis can be downloaded or viewed interactively."
+
+      - title: Greater Boston Pandemic Fabrication Team (PanFab)
+        link: https://www.panfab.org/
+        tagline: "Founded and co-led ~100-person volunteer effort to respond to medical supply shortages during the COVID-19 pandemic. Resulting data, publications, and device designs are publicly available."
 
       - title: Emergent Properties Blog
         link:  https://emergentpropertiesblog.com/
